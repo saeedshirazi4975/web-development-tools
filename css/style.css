@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+    direction: rtl;
+    font-family: Yekan;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
